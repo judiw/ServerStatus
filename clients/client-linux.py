@@ -14,9 +14,9 @@ PORT = 35601
 PASSWORD = "USER_DEFAULT_PASSWORD"
 INTERVAL = 1
 PORBEPORT = 80
-CU = "woa.unicomgd.com"
-CT = "gd.189.cn"
-CM = "gd.10086.cn"
+CU = "cu.lg.judi.fun"
+CT = "ct.lg.judi.fun"
+CM = "cm.lg.judi.fun"
 
 import socket
 import time
